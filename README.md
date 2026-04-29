@@ -42,5 +42,5 @@ Implementado con YOLOv8, OpenCV y lógica de cruce de línea desde cámara cenit
  
 ---
  
-#### [Otro proyecto](https://github.com/ualanl248/TDI)
+#### [Proyecto de TDI](https://github.com/ualanl248/TDI)
 Proyecto para la detección de diferencias en imágenes. 
