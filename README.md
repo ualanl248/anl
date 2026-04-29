@@ -26,7 +26,7 @@ Actualmente preparando **CCNA**.
 ## Proyectos
 
 ### [Scripts](https://github.com/ualanl248/labscripts)
-Scripts que he usado en laboratorios. 
+Scripts que he usado en laboratorios y CTFs. 
 
 ---
 
