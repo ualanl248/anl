@@ -1,4 +1,4 @@
-# Adolfo — Ciberseguridad & TI
+# Ciberseguridad & TI
  
 Estudiante con interés en ciberseguridad defensiva y TI.  
 Interesado en DFIR, análisis forense, redes y sistemas operativos.
