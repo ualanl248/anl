@@ -9,8 +9,6 @@ Interesado en DFIR, análisis forense, redes y sistemas operativos.
  
 Estudiante de Ingeniería informática en la UAL, con enfoque en ciberseguridad defensiva, DFIR y TI.
  
-Actualmente preparando **CCNA**.
- 
 ---
  
 ## Skills
