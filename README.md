@@ -23,6 +23,12 @@ Estudiante de Ingeniería informática en la UAL, con enfoque en ciberseguridad 
  
 ## Proyectos
 
+### [Búsqueda y detección de criptoactivos en volcados de RAM](https://github.com/ualanl248/CryptoWatcher.git)
+Búsquea y detección de criptoactivos en volcados de RAM mediante el uso de YARA y Volatility de forma sinérgica.  
+`YARA` `Volatility` 
+
+---
+
 ### [Scripts](https://github.com/ualanl248/labscripts)
 Scripts que he usado en laboratorios y CTFs. 
 
@@ -42,3 +48,4 @@ Implementado con YOLOv8, OpenCV y lógica de cruce de línea desde cámara cenit
  
 #### [Proyecto de TDI](https://github.com/ualanl248/TDI)
 Proyecto para la detección de diferencias en imágenes. 
+
