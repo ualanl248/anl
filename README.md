@@ -1,13 +1,13 @@
 # Ciberseguridad & TI
  
-Estudiante de Ingeniería informática con interés en ciberseguridad defensiva y TI.  
+Estudiante de Ingeniería informática con enfoque en ciberseguridad defensiva y TI.  
 Interesado en DFIR, análisis forense, redes y sistemas operativos.
  
 ---
  
 ## Sobre mí
  
-Estudiante de Ingeniería informática en la UAL, con enfoque en ciberseguridad defensiva, DFIR y TI.
+Busco adquirir experiencia en materia de TI con miras a especializarme en un futuro en respuesta ante incidentes y DFIR.
  
 ---
  
