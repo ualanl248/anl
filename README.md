@@ -23,7 +23,7 @@ Busco adquirir experiencia en materia de TI con miras a especializarme en un fut
  
 ## Proyectos
 
-### [Búsqueda y detección de criptoactivos en volcados de RAM](https://github.com/ualanl248/CryptoWatcher.git)
+### [CryptoWatcher](https://github.com/ualanl248/CryptoWatcher.git)
 Herramienta en python dirigida a la búsqueda y detección de criptoactivos en volcados de RAM mediante el uso de YARA y Volatility de forma sinérgica.  
 `YARA` `Volatility` 
 
