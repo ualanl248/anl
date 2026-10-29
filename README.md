@@ -10,8 +10,11 @@ Ahora mismo: montando un laboratorio SOC local y preparando la CompTIA Security+
 ## Tecnologías
 
 **Lenguajes:** `Java` `C` `Bash` `SQL` `Python` `C++`
+
 **SOC, respuesta ante incidentes y DFIR:** `Wazuh` `Volatility` `YARA` `The Sleuth Kit` 
+
 **Redes y seguridad:** `Wireshark` `OWASP ZAP`
+
 **Sistemas:** `Linux` `Git`
 
 ---
