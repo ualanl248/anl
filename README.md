@@ -30,8 +30,8 @@ Herramienta en Python para detectar estructuras de datos relacionadas con cripto
 `Python` `YARA` `Volatility`
 
 ### [duobusinesslingo](https://github.com/ualanl248/duobusinesslingo)
-[Qué es la web en una frase], desarrollada desde cero con [HTML/CSS/JS, framework...].
-`[tecnologías]`
+Página realizada para una academi ade inglés, desarrollada desde cero con HTML, CSS y JS nativos.
+``
 
 ### [labscripts](https://github.com/ualanl248/labscripts)
 Scripts de automatización que he usado en laboratorios y CTFs.
