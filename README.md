@@ -13,7 +13,7 @@ Ahora mismo: montando un laboratorio SOC local y preparando la CompTIA Security+
 
 **SOC, respuesta ante incidentes y DFIR:** `Wazuh` `Volatility` `YARA` `The Sleuth Kit` 
 
-**Redes y seguridad:** `Wireshark` `OWASP ZAP`
+**Redes y seguridad web:** `Wireshark` `OWASP ZAP`
 
 **Sistemas:** `Linux` `Git`
 
