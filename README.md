@@ -42,7 +42,7 @@ Detección de entradas y salidas de pasajeros en autobuses mediante visión arti
 `Python` `YOLOv8` `OpenCV`
 
 ### [TDI](https://github.com/ualanl248/TDI)
-Detección de diferencias entre imágenes en C++ mediante [técnica: resta de imágenes, umbralización...].
+Detección de diferencias entre imágenes en C++ mediante resta de imágenes.
 `C++` 
 
 
