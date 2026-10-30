@@ -24,8 +24,7 @@ Herramienta en Python para detectar estructuras de datos relacionadas con cripto
 `Python` `YARA` `Volatility`
 
 ### [duobusinesslingo](https://github.com/ualanl248/duobusinesslingo)
-Página realizada para una academia de inglés, desarrollada desde cero con HTML, CSS y JS nativos.
-`` 
+Página realizada para una academia de inglés, desarrollada desde cero con HTML, CSS y JS nativos. 
 
 ### [Conteo de personas en transporte público](https://github.com/ualanl248/ConteoDePersonasYOLOv8)
 Detección de entradas y salidas de pasajeros en autobuses mediante visión artificial, con cámara cenital y lógica de cruce de línea.
