@@ -5,7 +5,7 @@ Busco incorporarme a un equipo **SOC** para formarme en monitorización y respue
 
 ---
 
-## Tecnologías
+## Skills
 
 **Lenguajes:** `Java` `C` `Bash` `SQL` `Python` `C++`
 
