@@ -1,6 +1,6 @@
 # Hola, mi nombre es Adolfo 
 
-Estudiante de Ingeniería Informática en la Universidad de Almería, orientado a ciberseguridad defensiva.
+Estudiante de cuarto de Ingeniería Informática en la Universidad de Almería, orientado a ciberseguridad defensiva.
 
 Siempre he querido comprender mejor las teconologías de la información que tanto empleamos en nuestro día a día 
 y que resultan imprescindibles para casi cualquier tarea que nos propongamos llevar a cabo.
