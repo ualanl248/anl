@@ -1,7 +1,12 @@
-# Hola, soy Adolfo 
+# Hola, mi nombre es Adolfo 
 
 Estudiante de Ingeniería Informática en la Universidad de Almería, orientado a ciberseguridad defensiva.
-Busco incorporarme a un equipo **SOC** para formarme en monitorización y respuesta ante incidentes.
+
+Siempre he querido comprender mejor las teconologías de la información que tanto empleamos en nuestro día a día 
+y que resultan imprescindibles para casi cualquier tarea que nos propongamos llevar a cabo.
+
+Por ello mi objetivo es comprender más en profundidad su funcionamiento a la vez que pongo mi grano de arena
+para hacer de ellas medios más seguros y confiables para todos.
 
 ---
 
