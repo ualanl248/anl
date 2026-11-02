@@ -35,4 +35,4 @@ Detección de entradas y salidas de pasajeros en autobuses mediante visión arti
 ---
 
 ## Contacto
-[LinkedIn]([www.linkedin.com/in/adolfo-nogués-lópez-4b2628300](https://www.linkedin.com/in/adolfo-nogu%C3%A9s-l%C3%B3pez-4b2628300/)) · adolfo.nogueslopezz@gmail.com
+[LinkedIn](https://www.linkedin.com/in/adolfo-nogu%C3%A9s-l%C3%B3pez-4b2628300/) · adolfo.nogueslopezz@gmail.com
