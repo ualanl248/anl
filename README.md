@@ -12,7 +12,7 @@ para hacer de ellas medios más seguros y confiables para todos.
 
 ## Skills
 
-**Lenguajes:** `Java` `C` `Bash` `SQL` `Python` `C++`
+**Lenguajes:** `Java` `C` `Bash` `SQL` 
 
 **SOC, respuesta ante incidentes y DFIR:** `Wazuh` `Volatility` `Ghidra` 
 
