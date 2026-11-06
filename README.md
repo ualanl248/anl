@@ -27,6 +27,17 @@ Página realizada para una academia de inglés, desarrollada desde cero con HTML
 Detección de entradas y salidas de pasajeros en autobuses mediante visión artificial, con cámara cenital y lógica de cruce de línea.
 `Python` `YOLOv8` `OpenCV`
 
+---
+
+## Otras skills
+
+**Lenguajes:** `Java` `C` `Bash` `SQL` 
+
+**SOC y DFIR:** `Wazuh` `Volatility` `Ghidra` 
+
+**Redes y seguridad:** `Wireshark` `OWASP ZAP` `nmap` `SQLmap` `Metasploit`
+
+**Sistemas:** `Linux` 
 
 ---
 
