@@ -10,18 +10,6 @@ para hacer de ellas medios más seguros y confiables para todos.
 
 ---
 
-## Skills
-
-**Lenguajes:** `Java` `C` `Bash` `SQL` 
-
-**SOC, respuesta ante incidentes y DFIR:** `Wazuh` `Volatility` `Ghidra` 
-
-**Redes y seguridad:** `Wireshark` `OWASP ZAP` `nmap` `SQLmap` `Metasploit`
-
-**Sistemas:** `Linux` `Git`
-
----
-
 ## Proyectos destacados
 
 ### [Laboratorio SOC](https://github.com/ualanl248/SOClab)
@@ -38,7 +26,6 @@ Página realizada para una academia de inglés, desarrollada desde cero con HTML
 ### [Conteo de personas en transporte público](https://github.com/ualanl248/ConteoDePersonasYOLOv8)
 Detección de entradas y salidas de pasajeros en autobuses mediante visión artificial, con cámara cenital y lógica de cruce de línea.
 `Python` `YOLOv8` `OpenCV`
-
 
 
 ---
