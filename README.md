@@ -24,6 +24,10 @@ para hacer de ellas medios más seguros y confiables para todos.
 
 ## Proyectos destacados
 
+### [Laboratorio SOC](https://github.com/ualanl248/SOClab)
+Hecho desde cero simulando una infraestructura de dos LAN, un router, un cortafuegos y un servidor de monitorización con Wazuh. Se realizan multiples pruebas con dos equipos víctima y un Kali con todos los resultados documentados.
+`Wazuh` `OPNsense` `KVM`
+
 ### [CryptoWatcher](https://github.com/ualanl248/CryptoWatcher)
 Herramienta en Python para detectar estructuras de datos relacionadas con criptoactivos (wallets, claves, direcciones) en volcados de RAM, combinando reglas YARA con plugins de Volatility.
 `Python` `YARA` `Volatility`
